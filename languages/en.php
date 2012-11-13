@@ -17,6 +17,7 @@ A user named %s (username: %s, email: %s) is requesting validation of their acco
 Geolocation details of the user is
 IP address: %s
 Probable location: %s
+CBL abuseat.org lookup: http://cbl.abuseat.org/lookup.cgi?ip=%s&.pubmit=Lookup
 
 You can validate their account by clicking on the link below:
 
