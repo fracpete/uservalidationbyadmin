@@ -1,4 +1,8 @@
-uservalidationbyadmin
-=====================
+elgg_uservalidationbyadmin
+==========================
 
-Extended version of the "uservalidationbyadmin" elgg plugin.
+Fork of "uservalidationbyadmin" elgg plugin.
+
+Original plugin:
+  http://community.elgg.org/plugins/875414/1.0/user-validation-by-admin-for-18x
+
