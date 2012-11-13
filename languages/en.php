@@ -12,7 +12,7 @@ $english = array(
 	'email:validate:subject' => "%s is requesting validation of account for %s!",
 	'email:validate:body' => "Hello %s,
 
-A user named %s is requesting validation of their account by you. 
+A user named %s (username: %s, email: %s) is requesting validation of their account by you. 
 
 Geolocation details of the user is
 IP address: %s
