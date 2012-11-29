@@ -18,13 +18,15 @@ Geolocation details of the user is
 IP address: %s
 Probable location: %s
 CBL abuseat.org lookup: http://cbl.abuseat.org/lookup.cgi?ip=%s&.pubmit=Lookup
+Forum spam lookup: http://www.stopforumspam.com/search?q=%s
 
 You can validate their account by clicking on the link below:
+%s
 
+You can delete the user account from the admin interface:
 %s
 
 If you can't click on the link, copy and paste it to your browser manually.
-
 %s
 %s
 ",
@@ -37,7 +39,7 @@ This is to notify that your account at %s is activated by the admin.
 You can now login to the site with:
 
 Username : %s
-Password : the one you provided while registration
+Password : the one you provided at registration time
 
 %s
 %s
