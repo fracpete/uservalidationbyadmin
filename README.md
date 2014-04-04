@@ -1,12 +1,18 @@
-elgg_uservalidationbyadmin
-==========================
+uservalidationbyadmin
+=====================
 
 Fork of "uservalidationbyadmin" elgg plugin.
 
 Original plugin:
+
   http://community.elgg.org/plugins/875414/1.0/user-validation-by-admin-for-18x
 
 Changes:
+* 1.3
+
+  extended email sent to admin with search query for email using
+  the stopforumspam.com website
+
 * 1.2
   
   for convenience, constructing a link to cbl.abuseat.org to check
